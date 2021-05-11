@@ -5,7 +5,7 @@ import './BodySection.css'
 
 function BodySection() {
     return (
-        <div className='bodyContainer'>
+        <div className='body-container'>
             <video src='/videos/video-2.mp4' autoPlay loop muted />
             <h1>ADVENTURE AWAITS</h1>
             <p>What are you waiting for?</p>
